@@ -1,0 +1,171 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "FashionDesignContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "graduation_project",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Account]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Admin_Owner]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Aproved_Offer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Blogger]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Bottom_Measurement]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Client]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Client_Designer_Order]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Client_Store_Order]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Client_Store_Order_Items]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Clothe]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Color]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Completed_Order]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Design]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Design_Order]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Design_Order_Fabric]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Designer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Designer_Of_Design]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Fabric]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Fabric_Of_Store]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Instruction]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Message_Chat]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Rating]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Store]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tailor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tailor_Offer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tailor_Offer_Fabric_Metter]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Top_Measurment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[User]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[User_Role]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[GetRoles]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[GetOfferForClient]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetOfferForClientPages]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetOfferForTailor]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetOfferForTailorPages]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "ABDELRAHMAN-RAG.Fashion-DesignV1",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": true,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": true,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": true,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
